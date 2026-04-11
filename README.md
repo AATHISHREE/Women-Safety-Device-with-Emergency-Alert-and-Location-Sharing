@@ -36,7 +36,5 @@ Future enhancement includes sending location via GPS and GSM.
 - Mobile app integration
 - Wearable device implementation
 
-## Hardware Setup
-![Setup]("C:\Users\BELL\OneDrive\mov\OneDrive\Desktop\WhatsApp Image 2026-04-11 at 12.08.44 PM.jpeg")
-
 ## Demo Video
+[Click here to watch demo](https://youtu.be/RNeM7ieqyr8?si=1OMlFrLL8uNqjriL)
