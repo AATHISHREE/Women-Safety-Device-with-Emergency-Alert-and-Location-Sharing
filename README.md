@@ -35,3 +35,8 @@ Future enhancement includes sending location via GPS and GSM.
 - GSM-based SMS alerts
 - Mobile app integration
 - Wearable device implementation
+
+## Hardware Setup
+![Setup]("C:\Users\BELL\OneDrive\mov\OneDrive\Desktop\WhatsApp Image 2026-04-11 at 12.08.44 PM.jpeg")
+
+## Demo Video
